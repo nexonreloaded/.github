@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YOUR_INVITE)
 [![GitHub Org](https://img.shields.io/badge/GitHub-nexonreloaded-181717?style=for-the-badge&logo=github)](https://github.com/nexonreloaded)
-[![Status](https://img.shields.io/badge/Szerver%20Státusz-Fejlesztés_Alatt-blue?style=for-the-badge)]
+[![Status](https://img.shields.io/badge/Szerver%20Státusz-Fejlesztés_Alatt-blue?style=for-the-badge)]()
 
 > *Egy új fejezet kezdődik – üdvözlünk a Nexon Reloaded Roleplay világában.*
 
