@@ -35,6 +35,7 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 |------|--------|
 | `nxnr-simplecar` | Egy egyszerű autó lehívó script |
 | `nxnr-simplepointing` | Egy egyszerű mutogató script |
+| `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script |
 
 ---
 
