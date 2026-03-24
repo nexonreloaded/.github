@@ -14,7 +14,7 @@
 
 ## 🏙️ A Projektről
 
-A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élményt nyújtó szerver / projekt, amelynek célja egy valósághű, dinamikus és folyamatosan fejlődő világ megteremtése. Csapatunk elkötelezett a magas színvonalú fejlesztés és a közösség iránt.
+A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élményt nyújtó szerver / projekt, amelynek célja egy valósághű, dinamikus és folyamatosan fejlődő világ megteremtése. Csapatunk elkötelezett a magas színvonalú fejlesztés és a közösség iránt. A projekt kódja a nulláról épül. A dokumentáció magyarul készül, így semelyik új vagy kezdő fejlesztőnek nem okoz gondot a scriptek működésének betanulása. Scriptjeink egyfajta tutorial jelleggel is rendelkeznek, mivel a csapat, amely ezen a projekten dolgozik, egyáltalán nem rendelkezik semmilyen tapasztalattal, néhányukat kivéve, így a fejlesztés alatt ők is tanulnak szinte a nulláról.
 
 ---
 
@@ -34,6 +34,7 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 | Repo | Leírás |
 |------|--------|
 | `nxnr-simplecar` | Egy egyszerű autó lehívó script |
+| `nxnr-simplepointing` | Egy egyszerű mutogató script |
 
 ---
 
