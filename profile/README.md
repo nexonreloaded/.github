@@ -31,11 +31,11 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 
 ## 📁 Repozitóriumok
 
-| Repo | Leírás |
-|------|--------|
-| `nxnr-simplecar` | Egy egyszerű autó lehívó script |
-| `nxnr-simplepointing` | Egy egyszerű mutogató script |
-| `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script |
+| Repo | Leírás | Állapot |
+|------|--------|---------|
+| `nxnr-simplecar` | Egy egyszerű autó lehívó script | Kész |
+| `nxnr-simplepointing` | Egy egyszerű mutogató script | Folyamatban |
+| `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script | Folyamatban |
 
 ---
 
