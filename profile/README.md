@@ -33,9 +33,11 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 
 | Repo | Leírás | Állapot |
 |------|--------|---------|
+| `nexon-public` | Publikusan elérhető és használható scriptek | Feltöltés alatt |
 | `nxnr-simplecar` | Egy egyszerű autó lehívó script | Kész |
 | `nxnr-simplepointing` | Egy egyszerű mutogató script | Folyamatban |
 | `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script | Folyamatban |
+| `nxn-time` | Egy egyszerű idő szinronizáló script | Folyamatban |
 
 ---
 
