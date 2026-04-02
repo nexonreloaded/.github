@@ -52,6 +52,17 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 
 ---
 
+## 👤 Csapattagok
+
+| Név | Tevékenység |
+|-----------|--------|
+| 👤 **Mary Smith** | Ötletek, tulajdonlás, fejlesztési felügyelet |
+| 👤 **Barna Bence** | Kliens oldali scriptek, járművek, kiegészítők, mapping |
+| 👤 **Katona Noel** | Szerver oldali scriptek, kiegészítők |
+| 👤 **Ákos Máté** | UI dizájn előkészítés, mapping |
+
+---
+
 ## 🤝 Közreműködés
 
 Szeretnél te is részt venni a fejlesztésben? Nagyszerű!
