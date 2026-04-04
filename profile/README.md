@@ -38,6 +38,8 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 | `nxnr-simplepointing` | Egy egyszerű mutogató script | Folyamatban |
 | `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script | Folyamatban |
 | `nxn-time` | Egy egyszerű idő szinronizáló script | Folyamatban |
+| `nxn-tursolibsql` | Egy libsql wrapper Turso adatbázis kapcsolathoz | Kész |
+| `nxn-players` | Játékos mentés/lekérés adatbázis alapon | Kész (bővítéskor refactorálandó) |
 
 ---
 
