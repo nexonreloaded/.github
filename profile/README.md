@@ -34,12 +34,15 @@ A **Nexon Reloaded Roleplay** egy magasan kidolgozott, immerzív roleplay élmé
 | Repo | Leírás | Állapot |
 |------|--------|---------|
 | `nexon_public` | Publikusan elérhető és használható scriptek | Feltöltés alatt |
-| `nxnr-simplecar` | Egy egyszerű autó lehívó script | Kész |
-| `nxnr-simplepointing` | Egy egyszerű mutogató script | Folyamatban |
-| `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás script | Folyamatban |
-| `nxn-time` | Egy egyszerű idő szinronizáló script | Folyamatban |
+| `nxnr-simplecar` | Egy egyszerű autó lehívó | Kész |
+| `nxnr-simplepointing` | Egy egyszerű mutogatás | Folyamatban |
+| `nxnr-simplecrouch` | Egy egyszerű guggolás és hasalás | Folyamatban |
+| `nxn-time` | Egy egyszerű idő szinronizáló | Folyamatban |
 | `nxn-tursolibsql` | Egy libsql wrapper Turso adatbázis kapcsolathoz | Kész |
 | `nxn-players` | Játékos mentés/lekérés adatbázis alapon | Kész (bővítéskor refactorálandó) |
+| `nxn-needs` | Játékos szükségletek kezelése | Kész |
+| `nxn-hud` | Játékos és jármű HUD (overextended és ESX kompatibilitással) | Kész |
+| `nxn-notifications` | Értesítések és interakciók HUD | Kész |
 
 ---
 
